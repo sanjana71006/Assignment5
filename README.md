@@ -1,4 +1,4 @@
-#**Products Page using Fake API🛒**
+**#Products Page using Fake API🛒**
 
 A clean, responsive, and dynamic products page built with HTML, CSS, and JavaScript. Fetches product data (📦 image, title, price, description) in real-time from 🌐 Fake Store API or 🌐 DummyJSON.
 
