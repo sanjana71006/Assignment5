@@ -1,5 +1,5 @@
-# This is H1 (largest heading)
-#**Products Page using Fake API🛒**
+# Products Page using Fake API🛒
+
 
 
 
